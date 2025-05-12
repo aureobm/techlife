@@ -9,3 +9,6 @@ npm install
 Para cada projeto angular executar o comando
 npm start
 para subir servidor angular
+
+## Termos de uso
+Licença Creative commons
