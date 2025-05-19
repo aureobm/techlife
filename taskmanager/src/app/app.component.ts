@@ -11,4 +11,4 @@ import { CabecalhoComponent } from './cabecalho/cabecalho.component';
 })
 export class AppComponent {
   title = 'taskmanager';
-}
+} 
